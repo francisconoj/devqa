@@ -1,0 +1,7 @@
+{
+    "root": "C:\\Users\\desarrollo.d\\Documents\\GitHub\\app\\mstore-expo\\ios",
+    "node_env": "development",
+    "default_script": "app.js",
+    "apps": {},
+    "web": {}
+}

@@ -1,0 +1,30 @@
+{
+  "name": "api-ecommerce",
+  "description": "api for ecommerce",
+  "author": "InpireUI",
+  "version": "1.0.3",
+  "homepage": "https://github.com/inspireui/api-ecommerce",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inspireui/api-ecommerce"
+  },
+  "bugs": {
+    "url": "https://github.com/inspireui/api-ecommerce/issues"
+  },
+  "dependencies": {
+    "crypto-js": "3.1",
+    "lodash": "^4.17.20",
+    "oauth-1.0a": "^2.2.6"
+  },
+  "keywords": [
+    "react-native-wordpress",
+    "react-native",
+    "ecommerce",
+    "react-native-ecommerce",
+    "woocommerce",
+    "react-native-woocommerce",
+    "wordpress",
+    "ios",
+    "android"
+  ]
+}

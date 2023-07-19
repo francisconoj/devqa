@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "800013144201",
+    "project_id": "devola-1376e",
+    "storage_bucket": "devola-1376e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800013144201:android:7b6dbcedc39ffdea63b658",
+        "android_client_info": {
+          "package_name": "com.devola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800013144201-v3msqvr0q7irv00t50r29arh1mvhttjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devola",
+            "certificate_hash": "97f32b6f8ef5a147a79b75eb0b280763ee5a5e3a"
+          }
+        },
+        {
+          "client_id": "800013144201-5a1s4m5dqchrlov4sh5u1lpoe6lua20o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMhOLbt0rGqYfSWJIgEtNoSN3kdYIpj2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800013144201-5a1s4m5dqchrlov4sh5u1lpoe6lua20o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800013144201-2bpo26gsbqevugmet016fgrvr17l6cd7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devola.gt",
+                "app_store_id": "1542410156"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

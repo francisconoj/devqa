@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>800013144201-2bpo26gsbqevugmet016fgrvr17l6cd7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.800013144201-2bpo26gsbqevugmet016fgrvr17l6cd7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>800013144201-v3msqvr0q7irv00t50r29arh1mvhttjn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMKHb52URD6xjraWBxtBM9ufr9vzMJpug</string>
+	<key>GCM_SENDER_ID</key>
+	<string>800013144201</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.devola.gt</string>
+	<key>PROJECT_ID</key>
+	<string>devola-1376e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>devola-1376e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:800013144201:ios:92935d349c549f5c63b658</string>
+</dict>
+</plist>

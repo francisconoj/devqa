@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://dw-xcj.fnoj.mstore-expo.exp.direct",
+  "packagerNgrokUrl": "https://dw-xcj.fnoj.mstore-expo.exp.direct",
+  "ngrokPid": 13552,
+  "expoServerPort": 19000,
+  "devToolsPort": 19002,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "webpackServerPort": null
+}

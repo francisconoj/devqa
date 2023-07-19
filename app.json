@@ -1,0 +1,70 @@
+{
+  "expo": {
+    "name": "Devolá",
+    "description": "Devolá",
+    "owner": "devola",
+    "slug": "devola",
+    "privacy": "unlisted",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#1821fa"
+    },
+    "assetBundlePatterns": [
+      "assets/fonts/*",
+      "assets/images/icons/*",
+      "src/images/*",
+      "src/Expo/vector-icons/fonts//*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.devola.gt",
+      "usesAppleSignIn": true,
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.800013144201-2bpo26gsbqevugmet016fgrvr17l6cd7"
+        }
+      },
+      "infoPlist": {
+        "NSUserTrackingUsageDescription": "Tus datos son importantes para enviarte información y ofertas",
+        "NSAppTransportSecurity": {
+        "NSAllowsArbitraryLoads": true,
+        "NSAllowsArbitraryLoadsForMedia": true,
+        "NSAllowsArbitraryLoadsInWebContent": true,
+        "NSExceptionAllowsInsecureHTTPLoads": true
+        }
+      }
+    },
+    "android": {
+      "package": "com.devola",
+      "versionCode": 68,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_NETWORK_STATE",
+        "INTERNET",
+        "BIND_GET_INSTALL_REFERRER_SERVICE"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true
+    },
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyB95j8bTcv5n7cIJUFRQ-3amOK9-eH0ssc",
+          "measurementId": "G-4K64YV676Z"
+        }
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "version": "1.8.2",
+    "facebookScheme": "fb1336964526642394",
+    "facebookAppId": "1336964526642394",
+    "facebookDisplayName": "Devolá"
+  }
+}
